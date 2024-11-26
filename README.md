@@ -1,0 +1,1 @@
+A fun and interactive quiz application built with **HTML**, **CSS**, and **JavaScript**. Features a **3D UI** with smooth animations and hover effects. Includes 100+ trivia questions with dynamic score tracking. Modern design and easy to expand for more questions or features.
